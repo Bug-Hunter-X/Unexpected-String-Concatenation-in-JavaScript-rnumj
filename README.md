@@ -1,0 +1,1 @@
+This example demonstrates a common JavaScript error: unexpected string concatenation due to JavaScript's loose typing. The function `foo` attempts to add two values, but because one is a string, JavaScript performs string concatenation instead of numerical addition.  The solution shows how to use type checking or explicit type conversion to avoid this error.
